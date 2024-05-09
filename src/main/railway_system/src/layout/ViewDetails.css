@@ -1,0 +1,10 @@
+.image{
+ 
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvrcJJrIE1nSmiT1XM8O5Us_D2um_YESFTaA&s') no-repeat ;
+    background-size: cover;
+    height: 100%;
+    padding-bottom: 200px;
+}
+.nav-item{
+    color: red;
+}
